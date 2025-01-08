@@ -79,6 +79,11 @@ a {
   cursor: pointer;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
 .advantages-item .item-title {
   font-weight: 500;
   font-size: 20px;
