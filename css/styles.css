@@ -84,7 +84,7 @@ a {
   background-color: #404bbf;
 }
 
-.advantages-item .item-title {
+.item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -92,7 +92,7 @@ a {
   color: #2e2f42;
 }
 
-.advantages-item .item-text {
+.item-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -102,7 +102,7 @@ a {
   background-color: #f4f4fd;
 }
 
-.team-title {
+.section-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -116,42 +116,11 @@ a {
 }
 
 .team-item .item-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
 }
 
 .team-item .item-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   text-align: center;
-}
-
-.portfolio-title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-  text-transform: capitalize;
-}
-
-.portfolio-item .item-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.portfolio-item .item-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .footer {
